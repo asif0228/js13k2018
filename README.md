@@ -8,7 +8,9 @@ Then Players try to guess the combination of the opposit player.
 In each turn players get below informations:
 
 X = Wrong color, Wrong Position
+
 P = Right color, Wrong Position
+
 O = Right color, Right Position
 
 Whosoever gusses the correct combinatn first wins th game.
