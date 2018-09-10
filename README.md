@@ -6,6 +6,7 @@ It is a simple color combination game. two player Player 1 and Player 2 compets 
 Each player sets a 4 color combination out of 10.
 Then Players try to guess the combination of the opposit player.
 In each turn players get below informations:
+
 X = Wrong color, Wrong Position
 P = Right color, Wrong Position
 O = Right color, Right Position
